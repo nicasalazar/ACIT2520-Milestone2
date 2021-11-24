@@ -109,7 +109,7 @@ body {
     padding: 20px;
   }
 
-  .button {
+button {
     background-color: #ff9d9d;
     border: none;
     color: white;
@@ -121,3 +121,8 @@ body {
     margin: 4px 2px;
     cursor: pointer;
   }
+
+button:hover{
+    color:#000000;
+    background-color:#FFFFFF;
+}
